@@ -1,4 +1,4 @@
 import os
+#We are using os module to get the dircetories
 os.listdir()
-
-os.chdir("/")
+os.getcwd()
